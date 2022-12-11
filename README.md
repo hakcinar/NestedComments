@@ -1,3 +1,3 @@
 # NestedComments
 Nested comment/reply system
-https://hakcinar-nestedcomments-c502a2.netlify.app/
+https://nested-comments-three.vercel.app/
