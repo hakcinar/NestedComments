@@ -1,0 +1,16 @@
+.comment-main {
+  border: 1px solid gray;
+  width: 35rem;
+  padding: 1rem;
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+.comment-main input {
+  padding: 0.5rem 1rem;
+  margin-right: 5rem;
+}
+.comment-main button {
+  width: 5rem;
+  height: 2rem;
+}
